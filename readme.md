@@ -1,8 +1,13 @@
 Step1: Download the project
+
 Step2: Setting Database credentials in .env file
+
 Step3: run the command 'composer install'
+
 Step4: run your project using 'php artisan serve'
+
 Step5: run the command 'php artisan migrate'
+
 Step6: run your postman app
 
 Step7: add this url on your postman for posting http://127.0.0.1:8000/api/register and add your email, password on body section on postman for registration 
