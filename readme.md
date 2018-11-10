@@ -16,7 +16,8 @@ Step7: add this url on your postman for posting http://127.0.0.1:8000/api/regist
         key:email , value:your email,
         key:password, value:your password
         key:c_password, value: your password
-click on send button and you will get a token with user name save it
+        
+click on send button and you will get a token with user name save the token for generating next request 
 
 Step8: add this url on your postman for posting http://127.0.0.1:8000/api/login and add your email, password on body section on postman for registration 
 
